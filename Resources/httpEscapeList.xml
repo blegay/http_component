@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpEscapeList>
+    <httpEscape unicode="U+0020" code="20"/> <!-- SPACE -->
+    <httpEscape unicode="U+003C" code="3C"/> <!-- < -->
+    <httpEscape unicode="U+003E" code="3E"/> <!-- > -->
+    <httpEscape unicode="U+0023" code="23"/> <!-- # -->
+    <httpEscape unicode="U+0025" code="25"/> <!-- % -->
+    <httpEscape unicode="U+007B" code="7B"/> <!-- { -->
+    <httpEscape unicode="U+007D" code="7D"/> <!-- } -->
+    <httpEscape unicode="U+007C" code="7C"/> <!-- | -->
+    <httpEscape unicode="U+005C" code="5C"/> <!-- \ -->
+    <httpEscape unicode="U+005E" code="5E"/> <!-- ^ -->
+    <httpEscape unicode="U+007E" code="7E"/> <!-- ~ -->
+    <httpEscape unicode="U+005B" code="5B"/> <!-- [ -->
+    <httpEscape unicode="U+005D" code="5D"/> <!-- ] -->
+    <httpEscape unicode="U+0060" code="60"/> <!-- ` -->
+    <httpEscape unicode="U+003B" code="3B"/> <!-- ; -->
+    <httpEscape unicode="U+002F" code="2F"/> <!-- / -->
+    <httpEscape unicode="U+003F" code="3F"/> <!-- ? -->
+    <httpEscape unicode="U+003A" code="3A"/> <!-- : -->
+    <httpEscape unicode="U+0040" code="40"/> <!-- @ -->
+    <httpEscape unicode="U+003D" code="3D"/> <!-- = -->
+    <httpEscape unicode="U+0026" code="26"/> <!-- & -->
+    <httpEscape unicode="U+0024" code="24"/> <!-- $ -->
+    <httpEscape unicode="U+002B" code="2B"/> <!-- + -->
+    <httpEscape unicode="U+002C" code="2C"/> <!-- , -->
+    <httpEscape unicode="U+0022" code="22"/> <!-- " -->
+    <httpEscape unicode="U+0027" code="27"/> <!-- ' -->
+    
+    <!-- "%C3%A9" ==> "é" there must have been a confusion here   
+    <httpEscape unicode="U+00C3" code="C3"/> <!-\- Ã -\->
+    <httpEscape unicode="U+00A9" code="A9"/> <!-\- © -\->-->
+    
+    <!--<httpEscape unicode="U+0009" code="09"/>--> <!-- TAB -->
+    <!--<httpEscape unicode="U+0028" code="28"/>--> <!-- ( -->
+    <!--<httpEscape unicode="U+0029" code="29"/>--> <!-- ) -->
+</httpEscapeList>

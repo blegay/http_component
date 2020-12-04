@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlEscapeUnicodeList>
+    <urlEscapeUnicode unicode="U+00A0" name="NO-BREAK SPACE" char=" " sequence="c2a0"/>
+    <urlEscapeUnicode unicode="U+00A1" name="INVERTED EXCLAMATION MARK" char="¡" sequence="c2a1"/>
+    <urlEscapeUnicode unicode="U+00A2" name="CENT SIGN" char="¢" sequence="c2a2"/>
+    <urlEscapeUnicode unicode="U+00A3" name="POUND SIGN" char="£" sequence="c2a3"/>
+    <urlEscapeUnicode unicode="U+00A4" name="CURRENCY SIGN" char="¤" sequence="c2a4"/>
+    <urlEscapeUnicode unicode="U+00A5" name="YEN SIGN" char="¥" sequence="c2a5"/>
+    <urlEscapeUnicode unicode="U+00A6" name="BROKEN BAR" char="¦" sequence="c2a6"/>
+    <urlEscapeUnicode unicode="U+00A7" name="SECTION SIGN" char="§" sequence="c2a7"/>
+    <urlEscapeUnicode unicode="U+00A8" name="DIAERESIS" char="¨" sequence="c2a8"/>
+    <urlEscapeUnicode unicode="U+00A9" name="COPYRIGHT SIGN" char="©" sequence="c2a9"/>
+    <urlEscapeUnicode unicode="U+00AA" name="FEMININE ORDINAL INDICATOR" char="ª" sequence="c2aa"/>
+    <urlEscapeUnicode unicode="U+00AB" name="LEFT-POINTING DOUBLE ANGLE QUOTATION MARK" char="«" sequence="c2ab"/>
+    <urlEscapeUnicode unicode="U+00AC" name="NOT SIGN" char="¬" sequence="c2ac"/>
+    <urlEscapeUnicode unicode="U+00AD" name="SOFT HYPHEN" char="0" sequence="c2ad"/>
+    <urlEscapeUnicode unicode="U+00AE" name="REGISTERED SIGN" char="®" sequence="c2ae"/>
+    <urlEscapeUnicode unicode="U+00AF" name="MACRON" char="¯" sequence="c2af"/>
+    <urlEscapeUnicode unicode="U+00B0" name="DEGREE SIGN" char="°" sequence="c2b0"/>
+    <urlEscapeUnicode unicode="U+00B1" name="PLUS-MINUS SIGN" char="±" sequence="c2b1"/>
+    <urlEscapeUnicode unicode="U+00B2" name="SUPERSCRIPT TWO" char="²" sequence="c2b2"/>
+    <urlEscapeUnicode unicode="U+00B3" name="SUPERSCRIPT THREE" char="³" sequence="c2b3"/>
+    <urlEscapeUnicode unicode="U+00B4" name="ACUTE ACCENT" char="´" sequence="c2b4"/>
+    <urlEscapeUnicode unicode="U+00B5" name="MICRO SIGN" char="µ" sequence="c2b5"/>
+    <urlEscapeUnicode unicode="U+00B6" name="PILCROW SIGN" char="¶" sequence="c2b6"/>
+    <urlEscapeUnicode unicode="U+00B7" name="MIDDLE DOT" char="·" sequence="c2b7"/>
+    <urlEscapeUnicode unicode="U+00B8" name="CEDILLA" char="¸" sequence="c2b8"/>
+    <urlEscapeUnicode unicode="U+00B9" name="SUPERSCRIPT ONE" char="¹" sequence="c2b9"/>
+    <urlEscapeUnicode unicode="U+00BA" name="MASCULINE ORDINAL INDICATOR" char="º" sequence="c2ba"/>
+    <urlEscapeUnicode unicode="U+00BB" name="RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK" char="»" sequence="c2bb"/>
+    <urlEscapeUnicode unicode="U+00BC" name="VULGAR FRACTION ONE QUARTER" char="¼" sequence="c2bc"/>
+    <urlEscapeUnicode unicode="U+00BD" name="VULGAR FRACTION ONE HALF" char="½" sequence="c2bd"/>
+    <urlEscapeUnicode unicode="U+00BE" name="VULGAR FRACTION THREE QUARTERS" char="¾" sequence="c2be"/>
+    <urlEscapeUnicode unicode="U+00BF" name="INVERTED QUESTION MARK" char="¿" sequence="c2bf"/>
+    <urlEscapeUnicode unicode="U+00C0" name="LATIN CAPITAL LETTER A WITH GRAVE" char="À" sequence="c380"/>
+    <urlEscapeUnicode unicode="U+00C1" name="LATIN CAPITAL LETTER A WITH ACUTE" char="Á" sequence="c381"/>
+    <urlEscapeUnicode unicode="U+00C2" name="LATIN CAPITAL LETTER A WITH CIRCUMFLEX" char="Â" sequence="c382"/>
+    <urlEscapeUnicode unicode="U+00C3" name="LATIN CAPITAL LETTER A WITH TILDE" char="Ã" sequence="c383"/>
+    <urlEscapeUnicode unicode="U+00C4" name="LATIN CAPITAL LETTER A WITH DIAERESIS" char="Ä" sequence="c384"/>
+    <urlEscapeUnicode unicode="U+00C5" name="LATIN CAPITAL LETTER A WITH RING ABOVE" char="Å" sequence="c385"/>
+    <urlEscapeUnicode unicode="U+00C6" name="LATIN CAPITAL LETTER AE" char="Æ" sequence="c386"/>
+    <urlEscapeUnicode unicode="U+00C7" name="LATIN CAPITAL LETTER C WITH CEDILLA" char="Ç" sequence="c387"/>
+    <urlEscapeUnicode unicode="U+00C8" name="LATIN CAPITAL LETTER E WITH GRAVE" char="È" sequence="c388"/>
+    <urlEscapeUnicode unicode="U+00C9" name="LATIN CAPITAL LETTER E WITH ACUTE" char="É" sequence="c389"/>
+    <urlEscapeUnicode unicode="U+00CA" name="LATIN CAPITAL LETTER E WITH CIRCUMFLEX" char="Ê" sequence="c38a"/>
+    <urlEscapeUnicode unicode="U+00CB" name="LATIN CAPITAL LETTER E WITH DIAERESIS" char="Ë" sequence="c38b"/>
+    <urlEscapeUnicode unicode="U+00CC" name="LATIN CAPITAL LETTER I WITH GRAVE" char="Ì" sequence="c38c"/>
+    <urlEscapeUnicode unicode="U+00CD" name="LATIN CAPITAL LETTER I WITH ACUTE" char="Í" sequence="c38d"/>
+    <urlEscapeUnicode unicode="U+00CE" name="LATIN CAPITAL LETTER I WITH CIRCUMFLEX" char="Î" sequence="c38e"/>
+    <urlEscapeUnicode unicode="U+00CF" name="LATIN CAPITAL LETTER I WITH DIAERESIS" char="Ï" sequence="c38f"/>
+    <urlEscapeUnicode unicode="U+00D0" name="LATIN CAPITAL LETTER ETH" char="Ð" sequence="c390"/>
+    <urlEscapeUnicode unicode="U+00D1" name="LATIN CAPITAL LETTER N WITH TILDE" char="Ñ" sequence="c391"/>
+    <urlEscapeUnicode unicode="U+00D2" name="LATIN CAPITAL LETTER O WITH GRAVE" char="Ò" sequence="c392"/>
+    <urlEscapeUnicode unicode="U+00D3" name="LATIN CAPITAL LETTER O WITH ACUTE" char="Ó" sequence="c393"/>
+    <urlEscapeUnicode unicode="U+00D4" name="LATIN CAPITAL LETTER O WITH CIRCUMFLEX" char="Ô" sequence="c394"/>
+    <urlEscapeUnicode unicode="U+00D5" name="LATIN CAPITAL LETTER O WITH TILDE" char="Õ" sequence="c395"/>
+    <urlEscapeUnicode unicode="U+00D6" name="LATIN CAPITAL LETTER O WITH DIAERESIS" char="Ö" sequence="c396"/>
+    <urlEscapeUnicode unicode="U+00D7" name="MULTIPLICATION SIGN" char="×" sequence="c397"/>
+    <urlEscapeUnicode unicode="U+00D8" name="LATIN CAPITAL LETTER O WITH STROKE" char="Ø" sequence="c398"/>
+    <urlEscapeUnicode unicode="U+00D9" name="LATIN CAPITAL LETTER U WITH GRAVE" char="Ù" sequence="c399"/>
+    <urlEscapeUnicode unicode="U+00DA" name="LATIN CAPITAL LETTER U WITH ACUTE" char="Ú" sequence="c39a"/>
+    <urlEscapeUnicode unicode="U+00DB" name="LATIN CAPITAL LETTER U WITH CIRCUMFLEX" char="Û" sequence="c39b"/>
+    <urlEscapeUnicode unicode="U+00DC" name="LATIN CAPITAL LETTER U WITH DIAERESIS" char="Ü" sequence="c39c"/>
+    <urlEscapeUnicode unicode="U+00DD" name="LATIN CAPITAL LETTER Y WITH ACUTE" char="Ý" sequence="c39d"/>
+    <urlEscapeUnicode unicode="U+00DE" name="LATIN CAPITAL LETTER THORN" char="Þ" sequence="c39e"/>
+    <urlEscapeUnicode unicode="U+00DF" name="LATIN SMALL LETTER SHARP S" char="ß" sequence="c39f"/>
+    <urlEscapeUnicode unicode="U+00E0" name="LATIN SMALL LETTER A WITH GRAVE" char="à" sequence="c3a0"/>
+    <urlEscapeUnicode unicode="U+00E1" name="LATIN SMALL LETTER A WITH ACUTE" char="á" sequence="c3a1"/>
+    <urlEscapeUnicode unicode="U+00E2" name="LATIN SMALL LETTER A WITH CIRCUMFLEX" char="â" sequence="c3a2"/>
+    <urlEscapeUnicode unicode="U+00E3" name="LATIN SMALL LETTER A WITH TILDE" char="ã" sequence="c3a3"/>
+    <urlEscapeUnicode unicode="U+00E4" name="LATIN SMALL LETTER A WITH DIAERESIS" char="ä" sequence="c3a4"/>
+    <urlEscapeUnicode unicode="U+00E5" name="LATIN SMALL LETTER A WITH RING ABOVE" char="å" sequence="c3a5"/>
+    <urlEscapeUnicode unicode="U+00E6" name="LATIN SMALL LETTER AE" char="æ" sequence="c3a6"/>
+    <urlEscapeUnicode unicode="U+00E7" name="LATIN SMALL LETTER C WITH CEDILLA" char="ç" sequence="c3a7"/>
+    <urlEscapeUnicode unicode="U+00E8" name="LATIN SMALL LETTER E WITH GRAVE" char="è" sequence="c3a8"/>
+    <urlEscapeUnicode unicode="U+00E9" name="LATIN SMALL LETTER E WITH ACUTE" char="é" sequence="c3a9"/>
+    <urlEscapeUnicode unicode="U+00EA" name="LATIN SMALL LETTER E WITH CIRCUMFLEX" char="ê" sequence="c3aa"/>
+    <urlEscapeUnicode unicode="U+00EB" name="LATIN SMALL LETTER E WITH DIAERESIS" char="ë" sequence="c3ab"/>
+    <urlEscapeUnicode unicode="U+00EC" name="LATIN SMALL LETTER I WITH GRAVE" char="ì" sequence="c3ac"/>
+    <urlEscapeUnicode unicode="U+00ED" name="LATIN SMALL LETTER I WITH ACUTE" char="í" sequence="c3ad"/>
+    <urlEscapeUnicode unicode="U+00EE" name="LATIN SMALL LETTER I WITH CIRCUMFLEX" char="î" sequence="c3ae"/>
+    <urlEscapeUnicode unicode="U+00EF" name="LATIN SMALL LETTER I WITH DIAERESIS" char="ï" sequence="c3af"/>
+    <urlEscapeUnicode unicode="U+00F0" name="LATIN SMALL LETTER ETH" char="ð" sequence="c3b0"/>
+    <urlEscapeUnicode unicode="U+00F1" name="LATIN SMALL LETTER N WITH TILDE" char="ñ" sequence="c3b1"/>
+    <urlEscapeUnicode unicode="U+00F2" name="LATIN SMALL LETTER O WITH GRAVE" char="ò" sequence="c3b2"/>
+    <urlEscapeUnicode unicode="U+00F3" name="LATIN SMALL LETTER O WITH ACUTE" char="ó" sequence="c3b3"/>
+    <urlEscapeUnicode unicode="U+00F4" name="LATIN SMALL LETTER O WITH CIRCUMFLEX" char="ô" sequence="c3b4"/>
+    <urlEscapeUnicode unicode="U+00F5" name="LATIN SMALL LETTER O WITH TILDE" char="õ" sequence="c3b5"/>
+    <urlEscapeUnicode unicode="U+00F6" name="LATIN SMALL LETTER O WITH DIAERESIS" char="ö" sequence="c3b6"/>
+    <urlEscapeUnicode unicode="U+00F7" name="DIVISION SIGN" char="÷" sequence="c3b7"/>
+    <urlEscapeUnicode unicode="U+00F8" name="LATIN SMALL LETTER O WITH STROKE" char="ø" sequence="c3b8"/>
+    <urlEscapeUnicode unicode="U+00F9" name="LATIN SMALL LETTER U WITH GRAVE" char="ù" sequence="c3b9"/>
+    <urlEscapeUnicode unicode="U+00FA" name="LATIN SMALL LETTER U WITH ACUTE" char="ú" sequence="c3ba"/>
+    <urlEscapeUnicode unicode="U+00FB" name="LATIN SMALL LETTER U WITH CIRCUMFLEX" char="û" sequence="c3bb"/>
+    <urlEscapeUnicode unicode="U+00FC" name="LATIN SMALL LETTER U WITH DIAERESIS" char="ü" sequence="c3bc"/>
+    <urlEscapeUnicode unicode="U+00FD" name="LATIN SMALL LETTER Y WITH ACUTE" char="ý" sequence="c3bd"/>
+    <urlEscapeUnicode unicode="U+00FE" name="LATIN SMALL LETTER THORN" char="þ" sequence="c3be"/>
+    <urlEscapeUnicode unicode="U+00FF" name="LATIN SMALL LETTER Y WITH DIAERESIS" char="ÿ" sequence="c3bf"/>
+    <urlEscapeUnicode unicode="U+20AC" name="EURO SIGN" char="€" sequence="e282ac"/>
+</urlEscapeUnicodeList>

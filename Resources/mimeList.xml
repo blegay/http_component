@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mimeList>
+    <!-- This list is used by HTTP__loadMimeTypes. This is a list of the most common mime types. 
+         Bruno LEGAY - 28/08/2013 -->
+    <mime type="text/html"/>
+    <mime type="text/css"/>
+    <mime type="text/plain"/>
+    <mime type="text/csv"/>  <!--Added by Bruno LEGAY - 28/08/2013-->
+    <mime type="text/xml"/>  <!--Added by Bruno LEGAY - 28/08/2013-->
+
+    <mime type="application/pdf" compress="false"/>
+    <mime type="application/rtf"/>
+    <mime type="application/postscript"/>
+    <mime type="application/mac-binhex40"/>
+    <mime type="application/javascript"/>
+    <mime type="application/json"/>
+    <mime type="application/x-stuffit" compress="false"/>
+    <mime type="application/xml"/>
+    <mime type="application/x-zip" compress="false"/>
+    <mime type="application/x-gzip" compress="false"/>
+    <mime type="application/x-tar" compress="false"/>
+    <mime type="application/xhtml+xml"/> <!--Added by Bruno LEGAY - 04/09/2014-->
+
+    <mime type="image/gif" compress="false"/>
+    <mime type="image/jpeg" compress="false"/>
+    <mime type="image/pict" compress="false"/>
+    <mime type="image/tiff"/>
+    <mime type="image/png" compress="false"/>  <!--Added by Bruno LEGAY - 28/08/2013-->
+    <mime type="image/svg+xml"/>  <!--Added by Bruno LEGAY - 28/08/2013-->
+    
+    <mime type="video/mpeg" compress="false"/>
+    <mime type="video/quicktime" compress="false"/>
+    <mime type="video/mp4" compress="false"/>  <!--Added by Bruno LEGAY - 28/08/2013-->
+
+    <mime type="audio/aiff" compress="true"/>
+    <mime type="audio/wav" compress="false"/>
+    <mime type="audio/x-pn-realaudio" compress="false"/>
+    <mime type="audio/mpeg" compress="false"/>  <!--Added by Bruno LEGAY - 28/08/2013-->
+    <mime type="audio/mp3" compress="false"/>  <!--Added by Bruno LEGAY - 28/08/2013-->
+
+    <mime type="x-www-form-urlencoded"/> <!--Added by Bruno LEGAY - 28/08/2013-->
+</mimeList>
