@@ -3,8 +3,7 @@
   //================================================================================
   //@xdoc-start : en
   //@name : HTTP_urlEncode
-  //@scope : public
-  //@attributes : ThreadSafe   
+  //@scope : public 
   //@deprecated : no
   //@description : This function is a specific URI encoding function for AWS 
   //@parameter[0-OUT-uriEncoded-TEXT] : uri encoded

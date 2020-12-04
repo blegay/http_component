@@ -3,8 +3,7 @@
   //================================================================================
   //@xdoc-start : en
   //@name : TXT_isEqualStrict
-  //@scope : public
-  //@attributes : ThreadSafe   
+  //@scope : public 
   //@deprecated : no
   //@description : This function returns true if two text are strictly equal . 
   //@parameter[0-OUT-textAreEqual-BOOLEAN] : True if both text are equal, False otherwise

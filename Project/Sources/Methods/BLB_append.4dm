@@ -3,8 +3,7 @@
   //================================================================================
   //@xdoc-start : en
   //@name : BLB_append
-  //@scope : public
-  //@attributes : ThreadSafe   
+  //@scope : public 
   //@deprecated : no
   //@description : this method is used to copy/append a blob ($2) at the end of another blob ($1) 
   //@parameter[1-IN-blobPtr-POINTER] : blob pointer (modified)

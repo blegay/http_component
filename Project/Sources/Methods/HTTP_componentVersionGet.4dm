@@ -3,7 +3,6 @@
   //@xdoc-start : en
   //@name : HTTP_componentVersionGet
   //@scope : public 
-  //@attributes : ThreadSafe
   //@deprecated : no
   //@description : This function returns the component version in a string (e.g. "0.00.05")
   //@parameter[0-OUT-componentVersion-TEXT] : componentVersion (e.g. "0.00.05")
