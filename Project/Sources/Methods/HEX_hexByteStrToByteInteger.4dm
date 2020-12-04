@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HEX_hexByteStrToByteInteger
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function converts a byte in hex format ("00" - "FF") to an integer byte value 0-255 
   //@parameter[0-OUT-byteValue-TEXT] : byte value (0-255)

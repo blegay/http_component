@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HTTP__urlEscapeUnicode
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function returns character url escaped for a given unicode character code
   //@parameter[0-OUT-unicodeEscaped-TEXT] : character url escaped

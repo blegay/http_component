@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HEX_byteToHexStr
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function returns a 0xFF bit mask 
   //@parameter[0-OUT-hex-ALPHA 2] : byte in hex format : "00" .. "FF"

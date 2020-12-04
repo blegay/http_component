@@ -4,6 +4,7 @@
   //@name : Méthode 35
   //@scope : private 
   //@attributes :    
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This method/function returns 
   //@parameter[0-OUT-paramName-TEXT] : ParamDescription

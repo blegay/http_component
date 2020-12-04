@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HTTP_urlDecode
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function returns a url decoded
   //@parameter[0-OUT-urlOut-TEXT] : decoded url

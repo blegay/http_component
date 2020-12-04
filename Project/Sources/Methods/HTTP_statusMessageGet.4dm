@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HTTP_statusMessageGet
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function returns an http status for a http status value
   //@parameter[0-OUT-httpStatusText-TEXT] : http status code (e.g. "OK")

@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HTTP_multipartBuild
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This method builds an multipart blob
   //@parameter[1-INOUT-$vp_bodyBlobPtr-POINTER] : body blob pointer (modified)

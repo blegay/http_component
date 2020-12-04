@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HEX_hexCharToInt
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function converts an hex char "0-F" into a number 0-15 
   //@parameter[0-OUT-hexValue-INTEGER] : value (0-15)

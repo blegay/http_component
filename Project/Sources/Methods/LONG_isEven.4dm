@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : LONG_isEven
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function returns True if number is even, False otherwise 
   //@parameter[0-OUT-isEven-BOOLEAN] : is even

@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HEX_hexTextToBlob
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This method converts some hexadecimal data into blob raw data 
   //@parameter[1-IN-hexadecimal-TEXT] : hexa decimal data

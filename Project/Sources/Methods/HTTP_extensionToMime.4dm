@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HTTP_extensionToMime
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function returns a mime type from an extension
   //@parameter[0-OUT-mime-TEXT] : mime (e.g. "image/jpeg")

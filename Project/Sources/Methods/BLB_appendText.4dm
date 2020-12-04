@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : BLB_appendText
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This method/function returns 
   //@parameter[0-OUT-paramName-TEXT] : ParamDescription

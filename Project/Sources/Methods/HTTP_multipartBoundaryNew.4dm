@@ -4,6 +4,7 @@
   //@xdoc-start : en
   //@name : HTTP_multipartBoundaryNew
   //@scope : public
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This function returns a unique boundary (using a uuid)
   //@parameter[0-OUT-boundary-TEXT] : unique boundary

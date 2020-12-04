@@ -4,12 +4,14 @@
   //@name : Méthode 32
   //@scope : private 
   //@attributes :    
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This method/function returns //================================================================================
   //@xdoc-start : en
   //@name : Méthode 32
   //@scope : private 
   //@attributes :    
+  //@attributes : ThreadSafe   
   //@deprecated : no
   //@description : This method/function returns 
   //@parameter[0-OUT-paramName-TEXT] : ParamDescription
