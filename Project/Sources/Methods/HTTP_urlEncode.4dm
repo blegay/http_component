@@ -50,7 +50,7 @@
   //
   //@see : https://www.ietf.org/rfc/rfc3986.txt
   //@version : 1.00.00
-  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2008
+  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2020
   //@history : CREATION : Bruno LEGAY (BLE) - 17/04/2016, 08:44:10 - v1.00.00
   //@xdoc-end
   //================================================================================

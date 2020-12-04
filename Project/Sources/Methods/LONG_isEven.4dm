@@ -19,7 +19,7 @@
   //ASSERT(Non(LONG_isEven (1)))
   //@see : 
   //@version : 1.00.00
-  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2008
+  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2020
   //@history : CREATION : Bruno LEGAY (BLE) - 20/11/2012, 12:04:00 - v1.00.00
   //@xdoc-end
   //================================================================================

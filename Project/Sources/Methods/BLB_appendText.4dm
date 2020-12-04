@@ -14,7 +14,7 @@
   //@example : BLB_appendText 
   //@see : 
   //@version : 1.00.00
-  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2008
+  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2020
   //@history : CREATION : Bruno LEGAY (BLE) - 11/09/2015, 16:55:13 - v1.00.00
   //@xdoc-end
   //================================================================================

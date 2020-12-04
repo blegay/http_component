@@ -13,7 +13,7 @@
   //@example : HTTP_statusMessageGet (200) => "OK"
   //@see : 
   //@version : 1.00.00
-  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2008
+  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2020
   //@history : CREATION : Bruno LEGAY (BLE) - 02/12/2020, 13:21:07 - v1.00.00
   //@xdoc-end
   //================================================================================

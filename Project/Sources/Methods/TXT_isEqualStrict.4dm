@@ -15,7 +15,7 @@
   //@example : TXT_isEqualStrict 
   //@see : 
   //@version : 1.00.00
-  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2008
+  //@author : Bruno LEGAY (BLE) - Copyrights A&C Consulting - 2020
   //@history : CREATION : Bruno LEGAY (BLE) - 19/02/2008, 08:18:08 - v1.00.00
   //@xdoc-end
   //================================================================================

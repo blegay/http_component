@@ -15,7 +15,7 @@ If (Find in array:C230($tt_components;"XDOC_component")>0)
 	EXECUTE METHOD:C1007("XDOC_authorSet";*;2;"Bruno LEGAY (BLE) - Copyrights A&C Consulting "+String:C10(Year of:C25(Current date:C33)))
 	
 	  //XDOC_versionTagSet (AWS_componentVersionGet )
-	EXECUTE METHOD:C1007("XDOC_versionTagSet";*;http_componentVersionGet )
+	EXECUTE METHOD:C1007("XDOC_versionTagSet";*;HTTP_componentVersionGet )
 	
 End if 
 
