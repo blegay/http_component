@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true,"preemptive":"capable"}
+//%attributes = {"invisible":true,"preemptive":"capable","shared":false}
 
 C_POINTER:C301($1;$vp_unicodeCharcodeArrayPtr)
 C_POINTER:C301($2;$vp_codeArrayPtr)

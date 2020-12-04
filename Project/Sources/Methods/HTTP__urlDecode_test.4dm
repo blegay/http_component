@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true}
+//%attributes = {"invisible":true,"shared":false}
 
 
 ASSERT:C1129(TXT_isEqualStrict (HTTP_urlDecode ("%2f");"/"))

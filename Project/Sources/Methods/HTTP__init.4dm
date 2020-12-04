@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true,"preemptive":"capable"}
+//%attributes = {"invisible":true,"preemptive":"capable","shared":false}
 
 If (Not:C34(Bool:C1537(Storage:C1525.http.init)))
 	

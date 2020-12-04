@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true}
+//%attributes = {"invisible":true,"shared":false}
 C_POINTER:C301($1;$vp_statusCodeArrayPtr)
 C_POINTER:C301($2;$vp_statusMessageArrayPtr)
 

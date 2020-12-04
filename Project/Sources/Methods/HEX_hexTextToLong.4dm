@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true}
+//%attributes = {"invisible":true,"shared":false}
 
   //0x7FFFFFFFF =>  2 147 483 647
   //0xFFFFFFFFF => -1

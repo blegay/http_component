@@ -1,4 +1,4 @@
-//%attributes = {"invisible":true,"preemptive":"capable"}
+//%attributes = {"invisible":true,"preemptive":"capable","shared":false}
 
 
 C_POINTER:C301($1;$vp_mimeTypesArrayPtr)
