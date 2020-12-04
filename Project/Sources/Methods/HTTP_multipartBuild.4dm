@@ -6,7 +6,7 @@
   //@scope : public
   //@deprecated : no
   //@description : This method builds an multipart blob
-  //@parameter[1-INOUT-$vp_bodyBlobPtr-POINTER]] : body blob pointer (modified)
+  //@parameter[1-INOUT-$vp_bodyBlobPtr-POINTER] : body blob pointer (modified)
   //@parameter[2-IN-boundary-TEXT] : boundary (see HTTP_multipartBoundaryNew)
   //@parameter[3-IN-header-TEXT] : part header (optional)
   //@parameter[4-IN-partBlobPtr-POINTER] : part body (optional, not modified)
