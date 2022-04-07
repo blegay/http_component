@@ -21,3 +21,5 @@ C_TEXT:C284($0;$vt_componentVersion)
   //<Modif> Bruno LEGAY (BLE) (04/12/2020)
 $vt_componentVersion:="0.00.05"
   //<Modif>
+
+$0:=$vt_componentVersion

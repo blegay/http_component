@@ -2,14 +2,12 @@
 
 If (Not:C34(Bool:C1537(Storage:C1525.http.init)))
 	
-	
 	  //<Modif> Bruno LEGAY (BLE) (06/08/2020)
-	  // in compiled mode, the assert will be automatically disabled (for the component and all processes)
+	  // in compiled mode (host), the assert will be automatically disabled (for the component and all processes)
 	C_BOOLEAN:C305($vb_assertEnabled)
 	$vb_assertEnabled:=Not:C34(Is compiled mode:C492(*))
 	SET ASSERT ENABLED:C1131($vb_assertEnabled)
 	  //<Modif>
-	
 	
 	Use (Storage:C1525)
 		
@@ -34,8 +32,8 @@ If (Not:C34(Bool:C1537(Storage:C1525.http.init)))
 			  //HTTP__httpEscapeLoad (->$tl_HTTP_ascii;->$tt_HTTP_escaped)
 			
 			  //ARRAY TO COLLECTION($co_httpEscapeLookup;\
-				$tl_HTTP_ascii;"ascii";\
-				$tt_HTTP_escaped;"httpEscaped")
+								$tl_HTTP_ascii;"ascii";\
+								$tt_HTTP_escaped;"httpEscaped")
 			
 			  //ARRAY LONGINT($tl_HTTP_ascii;0)
 			  //ARRAY TEXT($tt_HTTP_escaped;0)
@@ -51,8 +49,8 @@ If (Not:C34(Bool:C1537(Storage:C1525.http.init)))
 			  //HTTP__urlUnicodeEscapeLoad (->$tl_HTTP_urlUnicode;->$tt_HTTP_urlUnicodeEscaped)
 			
 			  //ARRAY TO COLLECTION($co_unicodeEscapeLookup;\
-				$tl_HTTP_urlUnicode;"unicode";\
-				$tt_HTTP_urlUnicodeEscaped;"unicodeEscaped")
+								$tl_HTTP_urlUnicode;"unicode";\
+								$tt_HTTP_urlUnicodeEscaped;"unicodeEscaped")
 			
 			  //ARRAY LONGINT($tl_HTTP_urlUnicode;0)
 			  //ARRAY TEXT($tt_HTTP_urlUnicodeEscaped;0)
@@ -68,8 +66,8 @@ If (Not:C34(Bool:C1537(Storage:C1525.http.init)))
 			  //HTTP__loadMimeTypes (->$tt_HTTP_mimeTypes;->$tb_HTTP_mimeTypesCompress)
 			
 			  //ARRAY TO COLLECTION($co_mimeTypeCompressLookup;\
-				$tt_HTTP_mimeTypes;"mimeType";\
-				$tb_HTTP_mimeTypesCompress;"compress")
+								$tt_HTTP_mimeTypes;"mimeType";\
+								$tb_HTTP_mimeTypesCompress;"compress")
 			
 			  //ARRAY TEXT($tt_HTTP_mimeTypes;0)
 			  //ARRAY BOOLEAN($tb_HTTP_mimeTypesCompress;0)
@@ -85,8 +83,8 @@ If (Not:C34(Bool:C1537(Storage:C1525.http.init)))
 			  //HTTP__loadExtMimeLookup (->$tt_HTTP_extMimeLookupExt;->$tt_HTTP_extMimeLookupMime)
 			
 			  //ARRAY TO COLLECTION($co_mimeTypeLookup;\
-				$tt_HTTP_extMimeLookupExt;"extension";\
-				$tt_HTTP_extMimeLookupMime;"mimeType")
+								$tt_HTTP_extMimeLookupExt;"extension";\
+								$tt_HTTP_extMimeLookupMime;"mimeType")
 			
 			  //ARRAY TEXT($tt_HTTP_extMimeLookupExt;0)
 			  //ARRAY TEXT($tt_HTTP_extMimeLookupMime;0)

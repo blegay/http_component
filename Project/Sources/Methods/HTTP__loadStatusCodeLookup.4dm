@@ -76,8 +76,10 @@ If (Count parameters:C259>1)
 			$tt_statusMessage{21}:="GATEWAY TIMEOUT"
 		End if 
 		
+		  //%W-518.1
 		COPY ARRAY:C226($te_statusCode;$vp_statusCodeArrayPtr->)
 		COPY ARRAY:C226($tt_statusMessage;$vp_statusMessageArrayPtr->)
+		  //%W+518.1
 		
 		ARRAY INTEGER:C220($te_statusCode;0)
 		ARRAY TEXT:C222($tt_statusMessage;0)

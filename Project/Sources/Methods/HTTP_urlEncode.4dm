@@ -1,5 +1,4 @@
 //%attributes = {"shared":true,"preemptive":"capable","invisible":false}
-
   //================================================================================
   //@xdoc-start : en
   //@name : HTTP_urlEncode
@@ -9,7 +8,7 @@
   //@parameter[0-OUT-uriEncoded-TEXT] : uri encoded
   //@parameter[1-IN-uri-TEXT] : uri
   //@parameter[2-IN-encodeSlash-BOOLEAN] : if TRUE encode "/", if FALSE "/" is not encoded (optional, default TRUE)
-  //@parameter[2-IN-rawUrlEncoding-BOOLEAN] : if TRUE encode " " as "%20", if FALSE " " is encoded with "+" (optional, default TRUE)
+  //@parameter[3-IN-rawUrlEncoding-BOOLEAN] : if TRUE encode " " as "%20", if FALSE " " is encoded with "+" (optional, default TRUE)
   //@notes :
   //  http://docs.aws.amazon.com/AmazonS3/latest/API/sigv4-query-string-auth.html
   //  URI encode every byte. UriEncode() must enforce the following rules:

@@ -20,6 +20,7 @@ If (Count parameters:C259>1)
 		C_TEXT:C284($vt_elementName)
 		C_TEXT:C284($vt_xmlDomRootRef;$vt_xmlDomElementRef)
 		$vt_xmlDomRootRef:=DOM Parse XML source:C719($vt_filePath)
+		ASSERT:C1129(ok=1;"error reading xml file \""+$vt_filePath+"\"")
 		If (ok=1)
 			
 			$vt_xmlDomElementRef:=DOM Get first child XML element:C723($vt_xmlDomRootRef;$vt_elementName)
@@ -46,8 +47,10 @@ If (Count parameters:C259>1)
 		End if 
 		
 		  //Si (Nombre de parametres>1)
+		  //%W-518.1
 		COPY ARRAY:C226($tl_unicodeCharcodeArray;$vp_unicodeCharcodeArrayPtr->)
 		COPY ARRAY:C226($tt_codeArray;$vp_codeArrayPtr->)
+		  //%W+518.1
 		  //Fin de si 
 		
 		ARRAY LONGINT:C221($tl_unicodeCharcodeArray;0)

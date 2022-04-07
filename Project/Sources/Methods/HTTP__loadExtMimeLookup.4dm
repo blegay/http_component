@@ -35,6 +35,7 @@ If (Count parameters:C259>1)
 			C_TEXT:C284($vt_elementName)
 			C_TEXT:C284($vt_xmlDomRootRef;$vt_xmlDomElementRef)
 			$vt_xmlDomRootRef:=DOM Parse XML source:C719($vt_xmlFilePath;$vb_validate;$vt_xsdFilePath)
+			ASSERT:C1129(ok=1;"error reading xml file \""+$vt_xsdFilePath+"\"")
 			If (ok=1)
 				
 				$vt_xmlDomElementRef:=DOM Get first child XML element:C723($vt_xmlDomRootRef;$vt_elementName)
@@ -60,8 +61,10 @@ If (Count parameters:C259>1)
 				DOM CLOSE XML:C722($vt_xmlDomRootRef)
 			End if   //dom
 			
+			  //%W-518.1
 			COPY ARRAY:C226($tt_extensions;$vp_extensionsArrayPtr->)
 			COPY ARRAY:C226($tt_mimeTypes;$vp_mimeTypesArrayPtr->)
+			  //%W+518.1
 			
 			ARRAY TEXT:C222($tt_extensions;0)
 			ARRAY TEXT:C222($tt_mimeTypes;0)

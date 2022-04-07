@@ -1,5 +1,4 @@
 //%attributes = {"shared":true,"preemptive":"capable","invisible":false}
-
   //================================================================================
   //@xdoc-start : en
   //@name : HTTP_extensionToMime
