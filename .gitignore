@@ -11,6 +11,8 @@
 /Settings/*
 /userPreferences*/*
 /Builds/*
+/Project/Trash/*
+/Documentation/Methods/MŽthode *.md
 
 # Don't need the data file, indexes, symbols, or journal
 *.4DD
